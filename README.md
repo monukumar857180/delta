@@ -1,2 +1,2 @@
 # delta
-this is my basic project.
+This is my basic project.
